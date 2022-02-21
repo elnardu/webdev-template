@@ -1,0 +1,10 @@
+{
+  "name": "webdev-template",
+  "private": true,
+  "author": "Elnard Utiushev <elnardu2@gmail.com>",
+  "dependencies": {
+    "esbuild": "^0.14.23",
+    "preact": "^10.6.6",
+    "typescript": "^4.5.5"
+  }
+}
